@@ -2,12 +2,13 @@
 
 A dungeon crawler game built with Python and Pygame. Navigate procedurally generated dungeons, avoid traps, collect coins, and find the exit!
 
-## Screenshots
+## Gameplay
 
 <img width="710" height="520" alt="image" src="https://github.com/user-attachments/assets/cda920e2-ddc3-46da-928b-ba6ab8e8f830" />
 
 <img width="710" height="520" alt="image" src="https://github.com/user-attachments/assets/ce8d3eeb-c76c-4d75-8182-de6ea8ec0e30" />
 
+![Gameplay](gameplay.gif)
 
 ## Features
 
